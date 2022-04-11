@@ -3,8 +3,6 @@ The first step is to import libraries required for developing your module. This
 example shows the creation of an abstract class which cannot be created using the 
 default python libraries. Hence, the abc module needs to be imported. This module 
 contains the methods typically required for creating an abstract class. 
-
-Test
 """
 from abc import ABC, abstractmethod
 

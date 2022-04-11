@@ -1,1 +1,1 @@
-'''Init.py docstring test'''
+'''Init.py docstring'''
